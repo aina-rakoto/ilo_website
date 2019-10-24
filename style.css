@@ -1,0 +1,311 @@
+html {
+scroll-behavior:smooth;
+}
+
+
+body{
+	background-color:#f9f9f9;
+}
+
+#logo{
+	font-family: 'Montserrat', sans-serif;
+	font-size:30px;
+	font-weight:normal;
+	color:#113A5D;
+	display:block;
+	padding-left:80px;
+	}
+
+ul li{
+	font-family:'Noto Sans', sans-serif;
+	font-size:18px;
+	font-weight:medium;
+	color:#113A5D;
+	list-style: none;
+	display:inline-block;
+	padding-right:80px;
+}
+
+.navbar {
+	display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.top-homepage {
+	display:flex;
+	justify-content: center;
+	padding-top: 90px;
+	}
+
+.ballons{
+	height:390px;
+	width:400px;
+	box-shadow: -60px -60px #113A5D;
+
+}
+
+.text-top{
+	padding-left:30px;
+}
+
+h1{
+	font-family:'Noto Serif';
+	font-size:60px;
+	font-weight:lighter;
+	color:#FF7A8A;
+	margin-bottom: 0px;
+}
+
+p{
+	font-family: sans-serif;
+	font-weight:lighter;
+	font-size:20px;
+	color:#113A5D;
+	letter-spacing:3px;
+	margin-top:-1px;
+}
+
+.btn{
+	font-family:'Noto Sans', sans-serif;
+	font-size:14px;
+	display:block;
+	color:#f9f9f9;
+	background-color:#FF7A8A;
+	padding:10px 10px 10px 10px;
+	border:0px;
+	text-align:center;
+
+}
+
+.quote-text{
+	font-family:'Noto Serif';
+	font-size:30px;
+	font-style:italic;
+	font-weight:lighter;
+	color:#FF7A8A;
+	text-align:center;
+	display:block;
+	background-color:#113A5D;
+	padding:55px 0px 55px 0px;
+	margin-top:81px;
+
+}
+
+.ampoule{
+	width: 268px;
+    height: 331px;
+}
+
+.rectangle-rose{
+    background-color: #E1B8B8;
+    height: 196px;
+    width: 442px;
+    margin-top: 26px;
+}
+
+.digital-strategy{
+	display:flex;
+	justify-content: center;
+	margin-top: 93px;
+}
+
+.digital-strategy-text{
+	padding-left: 30px; 
+}
+
+.lips-picture{
+	width: 296px;
+    height: 349px;
+	margin-left: 148px;
+}
+
+#media-campagne-text{
+	text-align: right;
+    margin-top: -6px;
+}
+.tech{
+	width:403px;
+}
+
+#logo-branding {
+	padding-left: 1079px;
+    writing-mode: vertical-lr;
+    margin-top: 39px;
+}
+.project-title h2 {
+	font-family:'Noto Serif';
+	font-size:30px;
+	font-style:italic;
+	font-weight:lighter;
+	color:#FF7A8A;
+	background-color:#113A5D;
+	display: block;
+    height: 72px;
+    width:200px;
+    padding: 43px 281px 43px 30px;
+    margin-right: -75px;
+}
+
+.media-campagne{
+	display:flex;
+	justify-content: flex-end;
+	margin-top: -239px;
+    padding-right: 191px;
+}
+
+.division-one{
+	padding-right: 31px;
+}
+
+#palette{
+	width: 648px;
+}
+
+#clavier{
+	width: 648px;
+	;
+}
+
+#projet{
+	width: 648px;
+    margin-top: -32px;
+    margin-bottom: 41px;
+}
+
+.text-about{
+	display: flex;
+    justify-content: center;
+    margin-left: 270px;
+    margin-top: 20px;
+    margin-bottom:50px;
+}
+
+.content{
+	margin-top: 132px;
+    margin-left: 19px;
+}
+
+.project{
+	display: flex;
+	margin-top:235px;
+}
+
+.description{
+	padding-top: 230px;
+    padding-left: 29px;
+}
+
+#project-title-deux{
+	color:#AFF6C3;
+}
+
+.form{
+	margin-top: 190px;
+    margin-left: 200px;
+}
+
+.lien-un{
+	color:#113A5D;
+	text-decoration: none;	
+}
+
+.lien-deux{
+	color:#f9f9f9;
+	text-decoration: none;
+}
+
+.lien-trois{
+	color:#FF7A8A;
+	text-decoration: none;
+}
+
+.barre-un{
+	width: 400px;
+    height: 3px;
+    background-color: #FF7A8A;
+    margin-left: 850px;
+    margin-top: 80px;
+    margin-bottom: -69px;
+}
+
+.barre-deux{
+	width: 3px;
+    height: 400px;
+    background-color: #FF7A8A;
+    margin-left: 1161px;
+    margin-top: -22px;
+    margin-bottom: -449px;
+}
+
+.barre-un-bis{
+	width: 400px;
+    height: 3px;
+    background-color: #B0F2B6;
+    margin-left: 850px;
+    margin-top: 85px;
+    margin-bottom: -69px;
+}
+
+.barre-deux-bis{
+	width: 3px;
+    height: 400px;
+    background-color: #B0F2B6;
+    margin-left: 1161px;
+    margin-top: -22px;
+    margin-bottom: -449px;
+}
+
+.email{
+	background-color: #FBD2D7;
+    border-radius: 4px;
+    width: 206px;
+    height: 59px;
+    padding-left: 166px;
+    padding-top: 10px;
+    padding-right: 130px;
+    margin-top: 22px;
+}
+
+.message-text{
+	background-color: #FBD2D7;
+    border-radius: 4px;
+    width: 206px;
+    height: 194px;
+    padding-left: 166px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-right: 130px;
+}
+
+#msg{
+	height: 136px;
+    width: 166px;
+}
+
+.label{
+	font-family: sans-serif;
+	font-weight:lighter;
+	font-size:20px;
+	color:#113A5D;
+}
+
+.formulaire{
+	display: block;
+    padding-top: 129px;
+    padding-left: 398px;
+    margin-bottom: 190px;
+}
+
+.btn-deux{
+	font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    display: block;
+    color: #f9f9f9;
+    background-color: #FF7A8A;
+    padding: 10px 10px 10px 10px;
+    border: 0px;
+    margin-left: 220px;
+    margin-top: 20px;
+    border-radius: 4px;
+}
